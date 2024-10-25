@@ -79,3 +79,6 @@ The results will be saved in a ZIP archive in the specified directory.
 - CMakeLists.txt — a file for configuring the build.
 ## Support
 If you have any problems or suggestions, please open an issue in the repository or submit a pull request.
+
+### Result of uniqueization
+![Result of uniqueization](https://github.com/Vlad-tdk/icon/blob/main/1.png)
